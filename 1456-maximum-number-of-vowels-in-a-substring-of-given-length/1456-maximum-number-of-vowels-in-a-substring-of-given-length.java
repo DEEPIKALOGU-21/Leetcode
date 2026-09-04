@@ -1,32 +1,23 @@
 class Solution {
     public int maxVowels(String s, int k) {
         int count = 0;
-        int maxvow = 0;
+        int max = 0;
 
         for (int i = 0; i < s.length(); i++) {
 
-            // Add the new character
-            if (isVowel(s.charAt(i))) {
+            if ("aeiou".indexOf(s.charAt(i)) != -1) {
                 count++;
             }
 
-            // Remove the character that is outside the window
-            if (i >= k) {
-                if (isVowel(s.charAt(i - k))) {
-                    count--;
-                }
+            if (i >= k && "aeiou".indexOf(s.charAt(i - k)) != -1) {
+                count--;
             }
 
-            // Update maximum after we have a full window
             if (i >= k - 1) {
-                maxvow = Math.max(maxvow, count);
+                max = Math.max(max, count);
             }
         }
 
-        return maxvow;
-    }
-
-    private boolean isVowel(char c) {
-        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
+        return max;
     }
 }
