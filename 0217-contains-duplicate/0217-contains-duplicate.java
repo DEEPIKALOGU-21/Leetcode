@@ -3,10 +3,12 @@ class Solution {
         HashSet<Integer> set = new HashSet<>();
 
         for (int i = 0; i < nums.length; i++) {
-            if (!set.add(nums[i])) {
+            set.add(nums[i]);
+        }
+            if(set.size()!=nums.length){
                 return true;
             }
-        }
+        
 
         return false;
     }
