@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
