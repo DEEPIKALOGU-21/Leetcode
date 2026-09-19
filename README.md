@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1025-divisor-game) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0202-happy-number) |
 ## Brainteaser
 |  |
 | ------- |
