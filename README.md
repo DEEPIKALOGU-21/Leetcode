@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
