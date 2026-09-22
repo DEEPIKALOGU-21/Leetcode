@@ -1,27 +1,15 @@
-import java.util.HashMap;
-
 class Solution {
     public char findTheDifference(String s, String t) {
-        HashMap<Character, Integer> map = new HashMap<>();
+        int result = 0;
 
-        // Count characters in s
         for (char c : s.toCharArray()) {
-            map.put(c, map.getOrDefault(c, 0) + 1);
+            result ^= c;
         }
 
-        // Subtract characters from t
         for (char c : t.toCharArray()) {
-            if (!map.containsKey(c)) {
-                return c;
-            }
-
-            map.put(c, map.get(c) - 1);
-
-            if (map.get(c) == 0) {
-                map.remove(c);
-            }
+            result ^= c;
         }
 
-        return ' ';
+        return (char) result;
     }
 }
