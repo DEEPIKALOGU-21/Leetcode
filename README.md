@@ -196,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1025-divisor-game) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
