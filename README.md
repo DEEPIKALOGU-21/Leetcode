@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
