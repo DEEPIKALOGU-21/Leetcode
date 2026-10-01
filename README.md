@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3794-reverse-string-prefix](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
