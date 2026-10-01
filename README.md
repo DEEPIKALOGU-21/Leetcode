@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3794-reverse-string-prefix](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
