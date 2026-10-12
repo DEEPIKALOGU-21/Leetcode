@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DEEPIKALOGU-21/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
